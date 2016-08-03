@@ -151,7 +151,7 @@ public class FortuneWheelManager : MonoBehaviour
     private IEnumerator HideCoinsDelta ()
     {
         yield return new WaitForSeconds (1f);
-	    CoinsDeltaText.gameObject.SetActive (false);
+	CoinsDeltaText.gameObject.SetActive (false);
     }
 
     private IEnumerator UpdateCoinsAmount ()
