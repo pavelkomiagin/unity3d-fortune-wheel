@@ -33,3 +33,5 @@ The sample scene contains all that you need for implement the Wheel of Fortune i
 2) Plug-in FortuneWheelManager script to your main game object or to an empty GameObject
 
 3) Bind the click event of TurnButton to FortuneWheelManager.TurnWheel method
+
+#### Compatible with Unity 5.3.0 and higher
