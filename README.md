@@ -1,4 +1,4 @@
-# unity3d-fortune-wheel
+# Wheel of Fortune for Unity3D
 Component "Wheel of Fortune" (also known as "Gacha") for Unity3D will make your game more interesting and can improve the monetization! Players can turn the wheel for some coins and get a reward.
 
 You can clone this repo or install it directly from Unity Asset Store (http://u3d.as/wqa)
