@@ -1,0 +1,10 @@
+Library/**
+Temp/**
+obj/**
+ProjectSettings/**
+Assets/AssetStoreTools/**
+**.meta
+*.idea*
+*.userprefs
+*.csproj
+*.sln
